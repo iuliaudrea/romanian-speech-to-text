@@ -29,6 +29,7 @@ where:
 | [vreme_model_small](https://huggingface.co/iulik-pisik/vreme_model_small) | Whisper Small | Horoscope | 7.99% | Mar 17, 2024 |
 | [vreme_model_base](https://huggingface.co/iulik-pisik/vreme_model_base) | Whisper Base | Horoscope | 11.57% | Mar 17, 2024 |
 | [vreme_model_tiny](https://huggingface.co/iulik-pisik/vreme_model_tiny) | Whisper Tiny | Horoscope | 13.91% | Mar 17, 2024 |
+| [horoscope_model_small](https://huggingface.co/iulik-pisik/horoscope_model_small) | Whisper Small | Horoscope | 9.785% | Mar 4, 2024 |
 | [horoscope_model_base](https://huggingface.co/iulik-pisik/horoscope_model_base) | Whisper Base | Horoscope | 17.03% | Mar 4, 2024 |
 | [horoscope_model_tiny](https://huggingface.co/iulik-pisik/horoscope_model_tiny) | Whisper Tiny | Horoscope | 21.85% | Mar 4, 2024 |
 
@@ -36,11 +37,11 @@ where:
 
 The following datasets were collected and used for fine-tuning:
 
-| Dataset | Description | HF Link |
+| Dataset | Description | Last Updates |
 |---------|------------|---------|
-| [audio_vreme](https://huggingface.co/iulik-pisik/audio_vreme) | Transcriptions of Romanian weather forecasts | Updated Apr 3, 2024 |
-| [horoscop_urania](https://huggingface.co/iulik-pisik/horoscop_urania) | Horoscope transcriptions (Urania) | Updated Mar 7, 2024 |
-| [horoscop_neti](https://huggingface.co/iulik-pisik/horoscop_neti) | Horoscope transcriptions (Neti) | Updated Feb 23, 2024 |
+| [audio_vreme](https://huggingface.co/iulik-pisik/audio_vreme) | Transcriptions of Romanian weather forecasts | Apr 3, 2024 |
+| [horoscop_urania](https://huggingface.co/iulik-pisik/horoscop_urania) | Horoscope transcriptions (Urania) | Mar 7, 2024 |
+| [horoscop_neti](https://huggingface.co/iulik-pisik/horoscop_neti) | Horoscope transcriptions (Neti Sandu) | Feb 23, 2024 |
 
 ## Usage
 
